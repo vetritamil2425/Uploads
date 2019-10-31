@@ -1,0 +1,19 @@
+Below are the Skills for DevOps engineers 
+Mandatory Skills
+•	Experience in scripting and automating administration tasks using Python, Bash, PoweShell
+•	Experience in Configuration Management tools( Ansible, Puppet)
+•	Experience in CI/CD methodologies and tools like Jenkins Groovey, Git / Github
+•	Experience in Linux administration 
+•	Experience in hosting in various application servers Apache, Tomcat, Nginx
+•	Should understand Load Balancing, Redundancy
+•	Should aware of Monitoring tools like New Relic
+Good to have
+•	Knowledge on public and hybrid clouds technologies (AWS, Azure, Google Cloud)
+•	Knowledge on transactional database MySQL, MS SQL, Postgress
+Thanks & Regards
+Nishant
+
+shell scripting
+ansible
+jenkins
+host-apache,tomcat,nginx

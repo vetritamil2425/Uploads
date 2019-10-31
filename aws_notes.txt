@@ -1,0 +1,22 @@
+[?9/?26/?2019 10:19 AM]  Susmitha Yanamala:  
+https://infosys-eta.webex.com/join/gayathri.m13 
+
+
+status check---->>>
+instance-cinfiguratino
+system-AWS problem
+------
+elastic ip
+ebs
+volume backup snapshot
+load balancing
+dns name
+round robin technology
+stateless application
+sticky session
+auto scaling
+lambda
+elastic neanstalk
+----------
+
+ 

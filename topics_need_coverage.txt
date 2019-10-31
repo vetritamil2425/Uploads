@@ -1,0 +1,66 @@
+--------------------AWS-------------------------
+security groups
+aws
+t2.micro
+
+instances type
+
+centos,distributions
+----------------
+----processor
+---kernel
+--eth0
+--ports in linux,sockets,litsneing
+--linux
+--networking
+--why httpd
+--WHAT IS MOUNT
+
+
+
+
+
+-----hyperthreading
+---clock speed
+--core
+
+
+psedo tty
+bash
+:D
+
+
+pip
+
+------------------
+inform for flex
+inform ritu-----
+callup jo
+revise ansible
+docker
+
+----------------------------
+
+ansible roles
+handlers
+vault
+ask pass
+ansible galaxy
+ansible tower
+inventory file
+jenkins CICD
+-----
+jenkins CICD
+---
+docker commands
+
+
+
+
+
+
+
+
+
+
+
